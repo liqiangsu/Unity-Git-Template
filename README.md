@@ -4,9 +4,6 @@ A github template for unity
 In git, or any version control system for that matter, you only want to maintain the "Assets" and "Project Settings" folders in the repository (repo). For git, to do that, add the following text in .gitignore
 
 ------------ start copy -------------
-# =============== #
-# Unity generated #
-# =============== #
 Temp/
 Obj/
 UnityGenerated/
